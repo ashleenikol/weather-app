@@ -1,0 +1,23 @@
+.container {
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.weather {
+  padding: 200px 0;
+  text-transform: uppercase;
+}
+
+h4 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-weight: bold;
+}
+.forecast {
+  display: block;
+  margin: 0 auto;
+}
